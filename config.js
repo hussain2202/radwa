@@ -64,7 +64,7 @@ const SITE_CONFIG = {
   finalMessageLines: [
     "بحبك اوي",
     "ربنا يخليكي ليا",
-    "وعايزين بقا نملاه صور كتير متنسيس 😂"
+    "وعايزين بقا نغير الصور دي بصورنا 😂"
   ],
   footerSignature: "💗 Lovely 💗",
 
